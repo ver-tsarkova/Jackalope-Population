@@ -1,5 +1,5 @@
 # Jackalope-Population
-A program that calculates population growth of jackalopes as follows. 
+A program that calculates population growth of jackalopes as follows: 
 
 Each generation, the jackalope population increases by 3% due to births and decreases by 1% due to deaths. Both the number of jackalopes who die and who are born will be rounded down (truncated) to an integer. See below for how to do this. So using a simple formula for calculating the number of jackalopes after a generation: If you start with 200 jackalopes, then 3% more are born, increasing the number to 206. 1% of the 206 die, decreasing the number to 204.
 
