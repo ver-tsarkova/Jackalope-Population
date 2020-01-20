@@ -1,5 +1,4 @@
 /* 
-Student ID: @00194989
 Filename: jack.cpp
 Assignment: HW7: Jackalope Populations    
 Description: A program that calculates population growth of jackalopes.      
